@@ -1,0 +1,11 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.checked {
+    color: orange;
+  }
+  .carousel-item{
+      width: 330px;
+      height: 200px;
+  }
